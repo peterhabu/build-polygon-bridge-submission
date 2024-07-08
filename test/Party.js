@@ -1,7 +1,7 @@
 const { assert } = require("chai");
 const { ethers } = require("hardhat");
 
-describe("NFT Zama's Collection Tests", function () {
+describe("NFT Party's Collection Tests", function () {
   let mainAccount, altAccount1, altAccount2;
   let nftInstance;
 

@@ -1,7 +1,7 @@
 const { ethers } = require("ethers");
 
 // Establish connection parameters
-const provider = new ethers.providers.JsonRpcProvider('https://matic-mumbai.chainstacklabs.com');
+const provider = new ethers.providers.JsonRpcProvider('https://polygon-amoy.g.alchemy.com/v2/PfihUnn4SOIFdAQwkTI_bTQW4bj2dWeX');
 const NFT_CONTRACT_ADDRESS = "0x549A3D41C0626ea686F8F208DE58761D8Dc61361";
 const QUERY_ADDRESS = "0x72e7Fd82d7b6497833f0c46ea3d30f3D35276714";
 

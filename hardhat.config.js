@@ -7,8 +7,8 @@ module.exports = {
   networks: {
     // Keep the existing networks if you want, or remove them if you don't need them
     mumbai: {
-      url: 'https://polygon-mumbai.g.alchemy.com/v2/PfihUnn4SOIFdAQwkTI_bTQW4bj2dWeX',
-      accounts: ["56289e99c94b6912bfc12adc093c9b51124f0dc54ac7a766b2bc5ccf558d8027"],
+      url: 'https://polygon-amoy.g.alchemy.com/v2/PfihUnn4SOIFdAQwkTI_bTQW4bj2dWeX',
+      accounts: ["9673488150c05380c2d245a4b7926252132489ecc9f19fd3513e926993cce2d1"],
     },
    // goerli: {
     //  url: "https://ethereum-goerli.publicnode.com",
@@ -17,7 +17,7 @@ module.exports = {
     // Add Sepolia network configuration
     sepolia: {
       url: 'https://eth-sepolia.g.alchemy.com/v2/adWMnDUcqmiSGSOzzSmo1fCkonljKqHr', // You'll need to set this in your .env file
-      accounts: ["56289e99c94b6912bfc12adc093c9b51124f0dc54ac7a766b2bc5ccf558d8027"],
+      accounts: ["9673488150c05380c2d245a4b7926252132489ecc9f19fd3513e926993cce2d1"],
     },
   },
 };
